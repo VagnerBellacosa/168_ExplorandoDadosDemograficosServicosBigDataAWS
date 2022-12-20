@@ -29,7 +29,14 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Apresentação](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/8d759319-b664-4a1a-bc3a-ad4e41c2d930)[Desafio](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/2992112e-4ea7-4d12-ad05-dbe55a4fee20)[Principais características da Amazon Athena](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/fcd6bad5-9778-4c1b-85f7-3fcdd6727ac3)[Criando um repositório no Amazon S3](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/72956650-7524-4c02-a61b-74e817d49394)[Extraindo dados com Amazon Glue](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/2589b155-be33-447e-8301-e50fd0c79049)[Executando consultas SQL no Amazon Athena](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/8972001a-b96d-4949-8f38-9078c7b7e498)[Visualizando os dados com Amazon Quicksight](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/903ff531-dd45-40e7-8d8d-03c431840982)[Entendendo o Desafio](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/eac6a055-2c2c-49ee-a685-90a1e5a9f27c)
+- [Apresentação](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/8d759319-b664-4a1a-bc3a-ad4e41c2d930)
+- [Desafio](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/2992112e-4ea7-4d12-ad05-dbe55a4fee20)
+- [Principais características da Amazon Athena](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/fcd6bad5-9778-4c1b-85f7-3fcdd6727ac3)
+- [Criando um repositório no Amazon S3](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/72956650-7524-4c02-a61b-74e817d49394)
+- [Extraindo dados com Amazon Glue](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/2589b155-be33-447e-8301-e50fd0c79049)
+- [Executando consultas SQL no Amazon Athena](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/8972001a-b96d-4949-8f38-9078c7b7e498)
+- [Visualizando os dados com Amazon Quicksight](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/903ff531-dd45-40e7-8d8d-03c431840982)
+- [Entendendo o Desafio](https://web.dio.me/lab/explorando-dados-demograficos-com-servicos-de-big-data-na-aws/learning/eac6a055-2c2c-49ee-a685-90a1e5a9f27c)
 
 
 
